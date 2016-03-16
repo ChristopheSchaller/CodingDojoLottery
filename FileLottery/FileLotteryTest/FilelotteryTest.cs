@@ -18,7 +18,7 @@ namespace FileLotteryTest
         [TestMethod]
         public void OnlyOneFileInTheDirectory_NextPath_shouldReturnTheOnlyFileFromTheDirectory()
         {
-            ////
+            //// My first change.
         }
     }
 }
