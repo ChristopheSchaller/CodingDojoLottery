@@ -1,0 +1,13 @@
+D:\Git\Test\MyGitTestRepository\FileLottery\FileLotteryTest\bin\Debug\FileLotteryTest.dll.config
+D:\Git\Test\MyGitTestRepository\FileLottery\FileLotteryTest\bin\Debug\FileLotteryTest.dll
+D:\Git\Test\MyGitTestRepository\FileLottery\FileLotteryTest\bin\Debug\FileLotteryTest.pdb
+D:\Git\Test\MyGitTestRepository\FileLottery\FileLotteryTest\bin\Debug\Hci.CoreTestLib.dll
+D:\Git\Test\MyGitTestRepository\FileLottery\FileLotteryTest\bin\Debug\Hci.Logging.dll
+D:\Git\Test\MyGitTestRepository\FileLottery\FileLotteryTest\bin\Debug\NSubstitute.dll
+D:\Git\Test\MyGitTestRepository\FileLottery\FileLotteryTest\bin\Debug\TechTalk.SpecFlow.dll
+D:\Git\Test\MyGitTestRepository\FileLottery\FileLotteryTest\bin\Debug\NSubstitute.xml
+D:\Git\Test\MyGitTestRepository\FileLottery\FileLotteryTest\obj\Debug\FileLotteryTest.csprojResolveAssemblyReference.cache
+D:\Git\Test\MyGitTestRepository\FileLottery\FileLotteryTest\obj\Debug\FileLotteryTest.dll
+D:\Git\Test\MyGitTestRepository\FileLottery\FileLotteryTest\obj\Debug\FileLotteryTest.pdb
+D:\Git\Test\MyGitTestRepository\FileLottery\FileLotteryTest\bin\Debug\FileLottery.dll
+D:\Git\Test\MyGitTestRepository\FileLottery\FileLotteryTest\bin\Debug\FileLottery.pdb

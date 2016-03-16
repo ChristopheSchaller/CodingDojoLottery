@@ -1,0 +1,5 @@
+D:\Git\Test\MyGitTestRepository\FileLottery\FileLottery\bin\Debug\FileLottery.dll
+D:\Git\Test\MyGitTestRepository\FileLottery\FileLottery\bin\Debug\FileLottery.pdb
+D:\Git\Test\MyGitTestRepository\FileLottery\FileLottery\obj\Debug\FileLottery.csprojResolveAssemblyReference.cache
+D:\Git\Test\MyGitTestRepository\FileLottery\FileLottery\obj\Debug\FileLottery.dll
+D:\Git\Test\MyGitTestRepository\FileLottery\FileLottery\obj\Debug\FileLottery.pdb
